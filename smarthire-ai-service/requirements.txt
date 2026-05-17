@@ -1,0 +1,17 @@
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+chromadb
+sentence-transformers
+sentence-transformers
+fastapi
+uvicorn[standard]
+confluent-kafka
+python-dotenv
+pydantic>=2.0
+pydantic-settings
+httpx
+pytest
+pytest-cov
+pytest-asyncio
