@@ -370,13 +370,6 @@ Contributions are welcome! Please open an issue first to discuss significant cha
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
----
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
   <sub>Built with ☕ Java · 🐍 Python · 🦜️🔗 LangChain · ⚡ Groq · 📬 Kafka</sub>
